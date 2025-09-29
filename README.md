@@ -1,25 +1,8 @@
-Change Log Initial Version
-Basic HTML pages created (Home, About, Products, Contact, Enquiries).
-Simple navigation links added.
-Basic product tables and images included.
-
-Current Version
-Responsive layout added for all pages.
-Modern navigation bar and footer with gradients and interactive buttons.
-Card and box layouts for product displays.
-Image modal popup for enlarging images on click.
-Improved typography and color palette.
-Enhanced button styles with hover, focus, and active states.
-Added borders and box shadows for tables, images, boxes, navigation, and footer.
-Centered video on the About page.
-Logo positioned and sized at the top left.
-Refactored and simplified CSS for readability.
-Fixed image alignment and sizing issues.
-Improved accessibility and interactivity.
-
-REFRENCES 
-1.W3Schools. (2025) css Tutorial. [Online] Available at: https://www.w3schools.com/html/ 
-2.jersey kits. (Year) Title or description of post. [Pinterest] [Online] Available at: URL [21/08/25]. 
-3.Ki`elle, Naidu. (2025) WED5020 
-4.OpenAI. “ChatGPT.” Chatgpt.com, OpenAI, 12 Sept. 2025, chatgpt.com. 
-5.Microsoft Copilot. “Microsoft Copilot.” Microsoft Copilot, Microsoft, 2025, copilot.microsoft.com/.
+Goal Gear
+Rauf Ally - ST10488039
+Goal Gear, established in 2010, has built a reputation for delivering high-quality soccer jerseys that resonate with players and fans alike. As we look to the future, we aim to enhance our brand's impact by aligning our goals with sustainable practices and community engagement.
+Goal Gear's future vision focuses on enhancing our impact in the soccer community while promoting sustainability. We aim to launch a new line of eco-friendly jerseys by the end of 2024 and partner with local soccer clubs to support grassroots initiatives, along with establishing a scholarship program for talented youth players by 2025. Our product line will expand to include accessories, and we will work to increase our social media presence and engage with our community more effectively. By 2026, we plan to reach international markets and collaborate with professional athletes to enhance our brand visibility. Through these goals, Goal Gear is dedicated to making a lasting impact on the soccer community and the environment.
+Refrences
+W3Schools. (2025) css Tutorial. [Online] Available at: https://www.w3schools.com/html/
+jersey kits. (Year) Title or description of post. [Pinterest] [Online] Available at: URL [21/08/25].
+Ki`elle, Naidu. (2025) WED5020
